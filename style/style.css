@@ -1,0 +1,117 @@
+body{
+	background-color: #EFEFEF;
+}
+div{
+	background-color: white; 
+	width: 1000px;
+	text-align: center; 
+	margin: 300px auto;
+	margin-top:35px;
+	margin-bottom: 10px;
+	padding: 30px;
+	}
+
+	hr{ 
+	text-align: justify;
+	width: 600px;
+	margin-bottom: 20px;
+	color: black;
+	}
+
+
+
+li{
+		text-align: center;
+		display:inline;
+		font-family: 'Roboto', sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		color: black;
+		}
+
+
+		#Accueil{
+			padding: 9px;
+			color: black;
+			text-decoration: none;
+			font-family: 'Roboto', sans-serif;
+		}
+
+		#Accueil:HOVER{
+			color: #8134af;
+			font-weight: 600;
+			
+		}
+
+	
+
+
+		#Projets{
+			padding: 9px;
+			color: black;
+			text-decoration: none;
+			font-family: 'Roboto', sans-serif;
+		}
+
+		#Projets:HOVER{
+			color: #8134af;
+			font-weight: 600;
+			
+		}
+
+
+		ul{
+			width: 550px;
+			margin: auto;
+			text-align: center;
+			display: inline;
+			}
+h1{
+		color:black;
+		text-align: center; 
+		font-style: normal;
+		font-weight: 700;
+		font-size: 2em;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		font-family: 'Roboto', sans-serif;
+		}
+
+
+p{
+	color: black;
+		font-family: Futura-pt, sans-sérif;
+		font-style: normal;
+		font-weight: 300;
+		text-align: justify; 
+		padding: 168px;
+		padding-top: 0px;
+		padding-bottom: 30px;
+		line-height: 20px;
+		font-family: 'Roboto', sans-serif;
+}
+#Accueil{
+			padding: 9px;
+			color: black;
+			text-decoration: none;
+		}
+
+		#menu:HOVER{
+			color: #8134af;
+			font-weight: 600;
+			
+		}
+			}
+
+		#menu:HOVER{
+			color: #8134af;
+			font-weight: 600;
+			font-family: futura;
+			font-size: 12em;
+			
+		}
+
+
